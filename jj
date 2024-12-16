@@ -1,0 +1,54 @@
+va.lang.RuntimeException: (JavaScript) TypeError: Failed to execute 'shaderSource' on 'WebGL2RenderingContext': parameter 1 is not of type 'WebGLShader'.
+
+TypeError: parameter 1 is not of type 'WebGLShader'.
+    at Nb (https://dmitrivoooozikooo.github.io/eagler/classes.js:2902:46)
+    at Bn8 (https://dmitrivoooozikooo.github.io/eagler/classes.js:8654:288)
+    at A.AYa (https://dmitrivoooozikooo.github.io/eagler/classes.js:8649:81)
+    at AXE (https://dmitrivoooozikooo.github.io/eagler/classes.js:8651:350)
+    at AOq (https://dmitrivoooozikooo.github.io/eagler/classes.js:3711:30)
+    at BrP (https://dmitrivoooozikooo.github.io/eagler/classes.js:3714:308)
+    at Bv (https://dmitrivoooozikooo.github.io/eagler/classes.js:7440:207)
+    at BJ (https://dmitrivoooozikooo.github.io/eagler/classes.js:4393:296)
+    at B03 (https://dmitrivoooozikooo.github.io/eagler/classes.js:4435:217)
+    at $rt_array.toString [as dr] (https://dmitrivoooozikooo.github.io/eagler/classes.js:18755:364)
+
+eaglercraft.version = "22w43a"
+eaglercraft.minecraft = "1.5.2"
+eaglercraft.brand = "lax1dude"
+eaglercraft.username = "VoolDarver69"
+
+webgl.version = null
+webgl.renderer = null [masked]
+webgl.vendor = null [masked]
+
+webgl.anisotropicGlitch = true
+
+window.eaglercraftOpts = {"container":"game_frame","assetsURI":"assets.epk","serverWorkerURI":"worker_bootstrap.js","worldsFolder":"MAIN","servers":[{"serverName":"Asspixel","serverAddress":"wss://web.asspixel.net/CAP/","hideAddress":false},{"serverName":"VanillaCraft","serverAddress":"wss://play.vanillacraftsmp.org","hideAddress":false},{"serverName":"CraftClue","serverAddress":"wss://play.craftclue.rocks","hideAddress":false},{"serverName":"Ayunboom","serverAddress":"wss://sus.shhnowisnottheti.me","hideAddress":false},{"serverName":"Sealcraft","serverAddress":"wss://sealcraft.ddns.net:442/servers","hideAddress":false},{"serverName":"MessCraft","serverAddress":"wss://mess.eu.org/s1/","hideAddress":false},{"serverName":"B2","serverAddress":"wss://mc.b2server.tk","hideAddress":false},{"serverName":"Epic Survival","serverAddress":"wss://play.theepicgamer.repl.co/server","hideAddress":false},{"serverName":"IMC.RE","serverAddress":"wss://play.imc.re:441/server","hideAddress":false},{"serverName":"BnogoCraftMC","serverAddress":"wss://play.bnogocarft.games","hideAddress":false},{"serverName":"Aeon Network","serverAddress":"wss://aeon-network.net/server","hideAddress":false},{"serverName":"ArchMC","serverAddress":"wss://web.arch.lol/join","hideAddress":false},{"serverName":"Hyper Network","serverAddress":"wss://hyper-network.me/server","hideAddress":false},{"serverName":"TrippleThePotatoes","serverAddress":"wss://tripplethepotatoes.potatolord5.repl.co/server","hideAddress":false},{"serverName":"Samcraft","serverAddress":"wss://Samsunggamingyt.samsungtah.repl.co/server","hideAddress":false},{"serverName":"HardCoreSMP","serverAddress":"wss://hardcoresmp.mrnewt.repl.co/serve","hideAddress":false}],"relays":[{"addr":"wss://relay.deev.is/","name":"lax1dude relay #1","primary":false},{"addr":"wss://relay.lax1dude.net/","name":"lax1dude relay #2","primary":false},{"addr":"wss://relay.shhnowisnottheti.me/","name":"ayunami relay #1","primary":true}],"mainMenu":{"splashes":["Darviglet!","eaglerenophile!","You Eagler!","Yeeeeeee!","yeee","Echo on top!","3kh0.github.io","Echo is cool","REEEEEEE","EEEEEEEEE!","You Darvig!","You Vigg!",":>","|>","You Yumpster!"],"eaglerLogo":false}}
+
+window.navigator.userAgent = Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+window.navigator.vendor = Google Inc.
+window.navigator.language = en-US
+window.navigator.hardwareConcurrency = 4
+window.navigator.deviceMemory = 8
+window.navigator.platform = Linux x86_64
+window.navigator.product = Gecko
+
+rootElement.clientWidth = 995
+rootElement.clientHeight = 530
+window.innerWidth = 995
+window.innerHeight = 530
+window.outerWidth = 995
+window.outerHeight = 651
+window.devicePixelRatio = 1.840843677520752
+window.screen.availWidth = 995
+window.screen.availHeight = 651
+window.screen.colorDepth = 24
+window.screen.pixelDepth = 24
+
+window.location.href = https://dmitrivoooozikooo.github.io/eagler/
+
+----- Begin Minecraft Config -----
+CgAAAA==
+----- End Minecraft Config -----
+
+window.minecraftServer = undefined
